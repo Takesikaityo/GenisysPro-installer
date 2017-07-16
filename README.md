@@ -1,0 +1,2 @@
+# GenisysPro-installer
+GenisysProをインストールします
